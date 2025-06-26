@@ -1,0 +1,16 @@
+Steps: 
+  examine training and structure of inceptionism, 
+
+  replicate in own environment (pytorch)
+
+  optimize
+
+  scrape plants
+
+  train on image set and native plants images
+
+  test on native plants with and without images
+
+  see results!
+
+  
